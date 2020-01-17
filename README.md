@@ -1,3 +1,4 @@
+# Not the main branch of the project; please head to https://github.com/osqzss/gps-sdr-sim instead. Codes here are not guaranteed to be functional or be up to date.
 # GPS-SDR-SIM
 
 GPS-SDR-SIM generates GPS baseband signal data streams, which can be converted 
